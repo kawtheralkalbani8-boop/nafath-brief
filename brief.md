@@ -12,7 +12,13 @@ Mobail
 The OWASP Mobile Application Security Verification Standard (MASVS) defines security and privacy controls for mobile applications. It covers areas such as data storage, cryptography, authentication, network communication, platform interaction, code quality, resilience, and privacy. Developers and security testers use these controls to assess an app systematically. The Mobile Application Security Testing Guide (MASTG) provides testing guidance to help verify whether the required controls are implemented effectively.
 Resource: OWASP MASVS - https://mas.owasp.org/MASVS/
 Networking
+Border Gateway Protocol (BGP) is the postal service of the Internet. When someone drops a letter into a mailbox, the Postal Service processes that piece of mail and chooses a fast, efficient route to deliver that letter to its recipient. Similarly, when someone submits data via the Internet, BGP is responsible for looking at all of the available paths that data could travel and picking the best route, which usually means hopping between autonomous systems.
+Resource: What is BGP? - https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
 Cybersecurity
+Products designed with Secure by Design principles prioritize the security of customers as a core business requirement, rather than merely treating it as a technical feature. During the design phase of a product’s development lifecycle, companies should implement Secure by Design principles to significantly decrease the number of exploitable flaws before introducing them to the market for widespread use or consumption. Out-of-the-box, products should be secure with additional security features such as multi-factor authentication (MFA), logging, and single sign-on (SSO) available at no extra cost.
+Resource: Secure by Design - https://www.cisa.gov/securebydesign
 Data
+A "Software Bill of Materials" (SBOM) acts as a detailed, nested inventory that lists the specific components making up a software product. The following documents, developed through an open and transparent collaborative process, were approved by consensus among stakeholders to enhance software component transparency. Further details regarding the NTIA multistakeholder process on this topic can be found in the available documentation.
+Resource: Software Bill of Materials - https://www.ntia.gov/page/software-bill-materials
 Misconception in My Track
 Open Question
