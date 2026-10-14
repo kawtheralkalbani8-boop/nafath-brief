@@ -21,4 +21,7 @@ Data
 A "Software Bill of Materials" (SBOM) acts as a detailed, nested inventory that lists the specific components making up a software product. The following documents, developed through an open and transparent collaborative process, were approved by consensus among stakeholders to enhance software component transparency. Further details regarding the NTIA multistakeholder process on this topic can be found in the available documentation.
 Resource: Software Bill of Materials - https://www.ntia.gov/page/software-bill-materials
 Misconception in My Track
+Many people incorrectly believe that encrypting internet traffic prevents route hijacking. In reality, encryption only protects your data's content, not the path it takes. Even with encryption, bad BGP routes can still redirect or block your traffic. To be truly secure, you need both encryption for your data and routing security tools like RPKI to ensure your traffic reaches its destination safely.
+Resource: What is RPKI? - https://www.cloudflare.com/learning/security/glossary/what-is-rpki/
 Open Question
+How can national service providers deploy RPKI and route monitoring across interconnected networks while maintaining reliable internet access during configuration errors or routing incidents?
